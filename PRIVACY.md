@@ -6,7 +6,9 @@ Clock for Diablo II ("the app") is an unofficial companion app that shows commun
 
 ## What the app collects
 
-**Nothing.** The app does not collect, store, or transmit any personal information. It has no accounts, no analytics, no advertising, and no third-party SDKs.
+The app does not collect any personal information. It has no accounts and no advertising.
+
+**Anonymous usage analytics.** The app uses Google Firebase Analytics (the variant without advertising identifiers) to understand which features are used. Firebase records which buttons are tapped (for example "opened settings", "picked a server", "toggled a reminder"), together with app version, device model, OS version, language and country. This data is aggregated, not linked to your identity, and not used for advertising or tracking across apps. It is processed by Google under the [Firebase privacy terms](https://firebase.google.com/support/privacy).
 
 ## Network requests
 
@@ -43,7 +45,9 @@ Clock for Diablo II（以下稱「本 App」）是非官方的輔助工具，顯
 
 ## 本 App 收集什麼
 
-**不收集任何資料。** 本 App 不收集、儲存或傳送任何個人資訊；沒有帳號、沒有分析工具、沒有廣告、沒有第三方 SDK。
+本 App 不收集任何個人資訊；沒有帳號、沒有廣告。
+
+**匿名使用分析。** 本 App 使用 Google Firebase Analytics（不含廣告識別碼的版本）了解哪些功能被使用：記錄按了哪些按鈕（例如「開啟設定」、「選擇伺服器」、「切換提醒開關」），以及 App 版本、裝置型號、系統版本、語言與國家。這些資料是彙整統計、不會與你的身分連結、不用於廣告或跨 App 追蹤，由 Google 依 [Firebase 隱私條款](https://firebase.google.com/support/privacy) 處理。
 
 ## 網路請求
 
