@@ -1,8 +1,8 @@
-# Privacy Policy — Clock for Diablo II
+# Privacy Policy — Sanctuary Clock
 
 _Last updated: 2026-10-18_
 
-Clock for Diablo II ("the app") is an unofficial companion app that shows community-reported Diablo Clone progress and Terror Zone rotations for Diablo II: Resurrected. It is not affiliated with or endorsed by Blizzard Entertainment.
+Sanctuary Clock ("the app") is an unofficial companion app that shows community-reported Diablo Clone progress and Terror Zone rotations for Diablo II: Resurrected. It is not affiliated with or endorsed by Blizzard Entertainment.
 
 ## What the app collects
 
@@ -37,11 +37,11 @@ Questions: briat2004@icloud.com
 
 ---
 
-# 隱私權政策 — Clock for Diablo II
+# 隱私權政策 — Sanctuary Clock
 
 _最後更新：2026-10-18_
 
-Clock for Diablo II（以下稱「本 App」）是非官方的輔助工具，顯示《暗黑破壞神 II：獄火重生》玩家回報的地表暗黑進度與恐怖地帶輪換，與 Blizzard Entertainment 無關。
+Sanctuary Clock（以下稱「本 App」）是非官方的輔助工具，顯示《暗黑破壞神 II：獄火重生》玩家回報的地表暗黑進度與恐怖地帶輪換，與 Blizzard Entertainment 無關。
 
 ## 本 App 收集什麼
 

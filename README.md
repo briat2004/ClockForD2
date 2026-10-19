@@ -1,4 +1,4 @@
-# Clock for Diablo II
+# Sanctuary Clock
 
 Unofficial iOS companion app for *Diablo II: Resurrected* (Reign of the Warlock): shows community-reported Diablo Clone progress and Terror Zone rotations, with reminders. Not affiliated with Blizzard Entertainment.
 
