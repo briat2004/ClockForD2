@@ -1,6 +1,6 @@
 # Privacy Policy — Sanctuary Clock
 
-_Last updated: 2026-11-09_
+_Last updated: 2026-11-13_
 
 Sanctuary Clock ("the app") is an unofficial companion app that shows community-reported Diablo Clone progress and Terror Zone rotations for Diablo II: Resurrected. It is not affiliated with or endorsed by Blizzard Entertainment.
 
@@ -14,7 +14,7 @@ The app does not collect any personal information. It has no accounts and no adv
 
 To show live data, the app sends requests to two sources:
 
-- **The developer's own server** (Google Cloud, Firebase project operated by the developer) for Diablo Clone progress. That server fetches the data from **d2emu.com** once a minute on behalf of all users; your device never contacts d2emu.com directly. Requests to the developer's server contain only the data being requested.
+- **The developer's own server** (Google Cloud, Firebase project operated by the developer) for Diablo Clone progress. That server fetches the data from **d2emu.com** every 30 seconds on behalf of all users; your device never contacts d2emu.com directly. Requests to the developer's server contain only the data being requested.
 - **d2runewizard.com** (a third-party community site) for Terror Zones and planned walks. These requests contain only the data being requested and a fixed developer contact address and app identifier required by that site's fair-use policy.
 
 They do not include any information about you or your device beyond what any standard HTTPS request carries (such as your IP address, which the server operators may log under their own privacy policies).
@@ -41,7 +41,7 @@ Questions: briat2004@icloud.com
 
 # 隱私權政策 — Sanctuary Clock
 
-_最後更新：2026-11-09_
+_最後更新：2026-11-13_
 
 Sanctuary Clock（以下稱「本 App」）是非官方的輔助工具，顯示《暗黑破壞神 II：獄火重生》玩家回報的地表暗黑進度與恐怖地帶輪換，與 Blizzard Entertainment 無關。
 
@@ -55,7 +55,7 @@ Sanctuary Clock（以下稱「本 App」）是非官方的輔助工具，顯示�
 
 為了顯示即時資料，本 App 會向兩個來源發出請求：
 
-- **開發者自己的伺服器**（開發者營運的 Google Cloud／Firebase 專案）：地表暗黑進度。該伺服器每分鐘向 **d2emu.com** 取一次資料再提供給所有使用者，你的裝置不會直接連到 d2emu.com。對開發者伺服器的請求只包含要查詢的資料。
+- **開發者自己的伺服器**（開發者營運的 Google Cloud／Firebase 專案）：地表暗黑進度。該伺服器每 30 秒向 **d2emu.com** 取一次資料再提供給所有使用者，你的裝置不會直接連到 d2emu.com。對開發者伺服器的請求只包含要查詢的資料。
 - 第三方社群網站 **d2runewizard.com**：恐怖地帶與預告開地表。請求只包含要查詢的資料，以及該網站公平使用政策要求的固定開發者聯絡方式與 App 識別。
 
 不包含任何關於你或你裝置的資訊（一般 HTTPS 請求本身會帶的 IP 位址除外，各伺服器營運者可能依其隱私權政策記錄）。
